@@ -12,7 +12,8 @@ I will add further support for other types if it crosses my mind or someone sugg
 
 ## Environment Variables
 
-To run this project, you will need to add the following environment variables to your .env file
+To run this project, you will need to add the following environment variables to your `.env` file.
+<br>Also make sure that the `.env` file is in the same directory as the `main.py` file.
 
 - These are mainly for MongoDB connection. I will add them later
 
