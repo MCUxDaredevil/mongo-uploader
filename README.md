@@ -7,6 +7,15 @@ It provides an interface to convert data between MongoDB and csv/Excel files
 You can easily upload your csv/Excel files to MongoDB for Object-Oriented Storage or download Objects from MongoDB locally in the form of csv or Execl files.
 
 I will add further support for other types if it crosses my mind or someone suggests it :)
+<br>
+
+PS: For people who are new to MongoDB, here are some terms explained in relation to Excel files:
+- Database: Excel File
+- Collection: Sheet
+- Document: Row / Object
+- Field: Column / Attribute
+
+
 
 <hr>
 
